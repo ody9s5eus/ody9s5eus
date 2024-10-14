@@ -31,8 +31,14 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 - 🔧 Deploying **scalable Node.js services** using **PM2** for robust performance.
 
 ### 🛠️ Personal Work
-- **Domestic Monero Chan (DMC)**: A **community-driven forum** for Monero (XMR) enthusiasts, designed in an image board style for free expression and privacy.  
-  🌐 [Check it out](https://domesticmonerochan.org)
+- **Domestic Monero Chan (DMC)**: A **community-driven, image board-style forum** tailored for Monero (XMR) enthusiasts. It emphasizes privacy and secure communication.  
+  🌐 [Check it out](https://domesticmonerochan.org)  
+  - 🔒 **Privacy Focused**: Supports **TOR connections** for anonymous browsing.  
+  - 🛡️ **PGP Encryption**: Users can create accounts and register their **PGP public keys** for secure communication.  
+  - 💬 **Encrypted DMs**: Communicate privately using **PGP-encrypted direct messages**.  
+  - 🧩 **Customizable Boards**: Create and manage **public or private boards** for different topics and communities.  
+  - 📸 **Rich Media Support**: Share **text, images, and videos** similar to other social platforms.  
+  - 🤝 **XMR Trading**: Facilitates **Monero trading** with a built-in **escrow service**, ensuring secure transactions between users.
 
 ### 📈 Goals & Aspirations
 - Building **scalable and intuitive products** that deliver exceptional user experiences.
