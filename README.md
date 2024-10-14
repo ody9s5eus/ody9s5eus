@@ -19,8 +19,8 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 - **Databases**: ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
 - **Cloud & DevOps**: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2300599C.svg?style=flat&logo=jenkins&logoColor=white)
 - **Platforms**: ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000.svg?style=flat&logo=redhat&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-%23262576.svg?style=flat&logo=centos&logoColor=white)
-- **Media Handling**: Utilizing ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23000000.svg?style=flat&logo=ffmpeg&logoColor=white) in Node.js for **image** and **video processing** (media contents).
-- **Blockchain & Crypto**: Familiar with **cryptocurrencies** and **blockchain technologies**, especially ![Monero (XMR)](https://img.shields.io/badge/Monero-%23FF6600.svg?style=flat&logo=monero&logoColor=white). Knowledgeable in **![TOR](https://img.shields.io/badge/TOR-%237E4798.svg?style=flat&logo=torproject&logoColor=white)** technology, with a strong emphasis on **privacy** and **freedom of speech**.
+- **Media**: ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23000000.svg?style=flat&logo=ffmpeg&logoColor=white)
+- **ETC**: ![Monero (XMR)](https://img.shields.io/badge/Monero-%23FF6600.svg?style=flat&logo=monero&logoColor=white) ![TOR](https://img.shields.io/badge/TOR-%237E4798.svg?style=flat&logo=torproject&logoColor=white)
 
 ### 🌟 What I've Achieved
 - 🏆 Supported multiple startups with **prototype development** across apps, web, and servers.
@@ -29,6 +29,10 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 - 📦 **Backend architecture** using Node.js and Java, with modern CI/CD pipelines for smooth deployments.
 - 💡 Always staying **ahead of the curve** with new trends and technologies in the development world.
 - 🔧 Deploying **scalable Node.js services** using **PM2** for robust performance.
+
+### 🛠️ Personal Work
+- **Domestic Monero Chan (DMC)**: An **image board-styled Monero (XMR) forum**.  
+  🌐 [Visit DMC](https://domesticmonerochan.org)
 
 ### 📈 Goals & Aspirations
 - Building **scalable and intuitive products** that deliver exceptional user experiences.
