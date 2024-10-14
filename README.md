@@ -1,12 +1,13 @@
-Great! Let’s give your GitHub README a more trendy look with some visual elements like badges, icons, and sections that reflect your personality and skills. Here’s a version that amps up the style:
-
----
-
 # 👋 Hi, I'm Odys! &nbsp;<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30px">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](#)
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?style=flat&logo=blogger&logoColor=white)](#)
+
+### 📊 GitHub Stats:
+![Odys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ody9s5eus&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ody9s5eus&theme=radical)
 
 ### 🚀 About Me
 I'm a **full-stack developer** with a passion for creating innovative and efficient solutions. From helping startups secure millions in investments 💰 to building scalable tech infrastructure 🚀, I love turning complex challenges into polished digital experiences.
@@ -29,6 +30,9 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=%23FFFFFF)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 
+### 📈 Contribution Activity:
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ody9s5eus&theme=github)
+
 ### 📈 Goals & Aspirations
 - Building **scalable and intuitive products** that deliver exceptional user experiences.
 - Exploring the **cutting edge** of cloud services and **serverless architectures**.
@@ -41,3 +45,8 @@ Feel free to connect with me via [LinkedIn](#), or check out my [Portfolio](#) t
 
 ### ✨ Fun Fact:
 > **"Coding is like a puzzle—every line you write brings you closer to the solution!"**
+
+### 📫 How to reach me:
+- **Email**: [ody9s5eus@icloud.com](mailto:ody9s5eus@icloud.com)
+
+Feel free to reach out if you want to chat about tech, opportunities, or just say hi!
