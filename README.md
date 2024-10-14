@@ -37,4 +37,4 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 Feel free to reach out if you want to chat about tech, opportunities, or just say hi!
 
 ### ✨ Fun Fact:
-> **"Coding is like a puzzle—every line you write brings you closer to the solution!"**
+> **"Run time is important. Done time is import as well."**
