@@ -26,13 +26,6 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 - 📦 **Backend architecture** using Node.js and Java, with modern CI/CD pipelines for smooth deployments.
 - 💡 Always staying **ahead of the curve** with new trends and technologies in the development world.
 
-### 🧠 Currently Learning
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=%23FFFFFF)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-
-### 📈 Contribution Activity:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ody9s5eus&theme=github)
-
 ### 📈 Goals & Aspirations
 - Building **scalable and intuitive products** that deliver exceptional user experiences.
 - Exploring the **cutting edge** of cloud services and **serverless architectures**.
@@ -42,8 +35,6 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 - **Email**: [ody9s5eus@icloud.com](mailto:ody9s5eus@icloud.com)
 
 Feel free to reach out if you want to chat about tech, opportunities, or just say hi!
-
----
 
 ### ✨ Fun Fact:
 > **"Coding is like a puzzle—every line you write brings you closer to the solution!"**
