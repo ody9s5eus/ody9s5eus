@@ -39,14 +39,11 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 - Making contributions to **open-source** projects and the development community.
 
 ### 📫 How to reach me:
-Feel free to connect with me via [LinkedIn](#), or check out my [Portfolio](#) to see what I’m up to! 
+- **Email**: [ody9s5eus@icloud.com](mailto:ody9s5eus@icloud.com)
+
+Feel free to reach out if you want to chat about tech, opportunities, or just say hi!
 
 ---
 
 ### ✨ Fun Fact:
 > **"Coding is like a puzzle—every line you write brings you closer to the solution!"**
-
-### 📫 How to reach me:
-- **Email**: [ody9s5eus@icloud.com](mailto:ody9s5eus@icloud.com)
-
-Feel free to reach out if you want to chat about tech, opportunities, or just say hi!
