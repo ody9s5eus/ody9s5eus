@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Odys! &nbsp;<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30px">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odys-lee-96b320334/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](#)
-[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?style=flat&logo=blogger&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://domesticmonerochan.org/)
 
 ### 📊 GitHub Stats:
 ![Odys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ody9s5eus&show_icons=true&theme=radical)\
