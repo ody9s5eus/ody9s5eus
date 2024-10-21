@@ -5,8 +5,8 @@
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?style=flat&logo=blogger&logoColor=white)](#)
 
 ### 📊 GitHub Stats:
-![Odys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ody9s5eus&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical)
+![Odys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ody9s5eus&show_icons=true&theme=radical)\
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical)\
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ody9s5eus&theme=radical)
 
 ### 🚀 About Me
