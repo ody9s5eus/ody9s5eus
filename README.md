@@ -4,8 +4,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://domesticmonerochan.org/)
 
 ### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical)\
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ody9s5eus&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ody9s5eus&theme=radical)\
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical)
 
 ### 🚀 About Me
 I'm a **full-stack developer** with a passion for creating innovative and efficient solutions. From helping startups secure millions in investments 💰 to building scalable tech infrastructure 🚀, I love turning complex challenges into polished digital experiences.
