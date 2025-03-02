@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://domesticmonerochan.org/)
 
 ### 📊 GitHub Stats:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ody9s5eus&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ody9s5eus&theme=radical)\
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical)
 
