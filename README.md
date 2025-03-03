@@ -29,7 +29,7 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 - 🔧 Deploying **scalable Node.js services** using **PM2** for robust performance.
 
 ### 🛠️ Personal Work
-- **Domestic Monero Chan (DMC)**: A **community-driven, image board-style forum** tailored for Monero (XMR) enthusiasts. It emphasizes privacy and secure communication.  
+- **Domesticmonerochan (DMC)**: A **community-driven, image board-style forum** tailored for Monero (XMR) enthusiasts. It emphasizes privacy and secure communication.  
   🌐 [Check it out](https://domesticmonerochan.org)  
   - 🔒 **Privacy Focused**: Supports **TOR connections** for anonymous browsing.  
   - 🛡️ **PGP Encryption**: Users can create accounts and register their **PGP public keys** for secure communication.  
