@@ -5,7 +5,7 @@
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ody9s5eus&theme=tokyonight)](https://git.io/streak-stats)\
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&theme=tokyo-night)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=tokyonight)
 
 ### 🚀 About Me
 I'm a **full-stack developer** with a passion for creating innovative and efficient solutions. From helping startups secure millions in investments 💰 to building scalable tech infrastructure 🚀, I love turning complex challenges into polished digital experiences.
