@@ -3,9 +3,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://domesticmonerochan.org/)
 
 ### 📊 GitHub Stats:
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&theme=tokyo-night)\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ody9s5eus&theme=tokyonight)](https://git.io/streak-stats)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&theme=tokyo-night)\
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=tokyo-night)
 
 ### 🚀 About Me
 I'm a **full-stack developer** with a passion for creating innovative and efficient solutions. From helping startups secure millions in investments 💰 to building scalable tech infrastructure 🚀, I love turning complex challenges into polished digital experiences.
