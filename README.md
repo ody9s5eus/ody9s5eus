@@ -4,7 +4,7 @@
 
 ### 📊 GitHub Stats:
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&theme=tokyo-night)\
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ody9s5eus&theme=radical)\
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ody9s5eus&theme=tokyonight)](https://git.io/streak-stats)\
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical)
 
 ### 🚀 About Me
