@@ -155,12 +155,9 @@ Media         FFmpeg · browser image pipelines
 ### Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ody9s5eus&show_icons=true&hide_border=true&bg_color=0A1628&title_color=D4A574&icon_color=D4A574&text_color=9BB0C2&ring_color=D4A574" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&hide_border=true&bg_color=0A1628&title_color=D4A574&text_color=9BB0C2" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&bg_color=0A1628&color=D4A574&line=D4A574&point=E8C9A0&area=true&hide_border=true" alt="Contribution activity" />
+  <img height="165" src="./assets/stats.svg" alt="GitHub snapshot" />
+  &nbsp;&nbsp;
+  <img height="165" src="./assets/languages.svg" alt="Top languages" />
 </p>
 
 ---

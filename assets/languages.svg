@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180" role="img" aria-label="Top languages">
+  <defs>
+    <linearGradient id="card2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A1628"/>
+      <stop offset="100%" stop-color="#132A3A"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" rx="10" fill="url(#card2)" stroke="#1E3A4C" stroke-width="1"/>
+  <rect x="0" y="0" width="4" height="180" fill="#D4A574"/>
+  <text x="24" y="36" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#D4A574" letter-spacing="2" font-weight="600">TOP LANGUAGES</text>
+
+  <!-- bars: TS 6, JS 4, CSS 3, HTML 2 => max 6 -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13">
+    <text x="24" y="68" fill="#9BB0C2">TypeScript</text>
+    <rect x="110" y="56" width="170" height="12" rx="3" fill="#1E3A4C"/>
+    <rect x="110" y="56" width="170" height="12" rx="3" fill="#D4A574"/>
+
+    <text x="24" y="96" fill="#9BB0C2">JavaScript</text>
+    <rect x="110" y="84" width="170" height="12" rx="3" fill="#1E3A4C"/>
+    <rect x="110" y="84" width="113" height="12" rx="3" fill="#E8C9A0"/>
+
+    <text x="24" y="124" fill="#9BB0C2">CSS</text>
+    <rect x="110" y="112" width="170" height="12" rx="3" fill="#1E3A4C"/>
+    <rect x="110" y="112" width="85" height="12" rx="3" fill="#9BB0C2"/>
+
+    <text x="24" y="152" fill="#9BB0C2">HTML</text>
+    <rect x="110" y="140" width="170" height="12" rx="3" fill="#1E3A4C"/>
+    <rect x="110" y="140" width="57" height="12" rx="3" fill="#6F8799"/>
+  </g>
+</svg>
