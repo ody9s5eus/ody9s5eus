@@ -1,52 +1,157 @@
-# Hi, I'm Odys! &nbsp;<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30px">
+<!--
+  Profile: Odys Lee (@ody9s5eus)
+  Intent: signal craft, ownership, and production judgment in under 10 seconds.
+-->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://domesticmonerochan.org/)
+<p align="center">
+  <img src="./assets/banner.svg" alt="Odys Lee — Build systems people trust" width="100%" />
+</p>
 
-### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ody9s5eus&theme=tokyonight)](https://git.io/streak-stats)\
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&theme=tokyo-night)
+<p align="center">
+  <a href="https://ody9s5eus.github.io/readme-generator/"><img src="https://img.shields.io/badge/Live_Tools-GitHub_Pages-0A1628?style=flat-square&labelColor=0A1628&color=D4A574" alt="Live tools" /></a>
+  &nbsp;
+  <a href="mailto:ody9s5eus@icloud.com"><img src="https://img.shields.io/badge/Email-ody9s5eus%40icloud.com-0A1628?style=flat-square&labelColor=0A1628&color=9BB0C2" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/ody9s5eus"><img src="https://img.shields.io/badge/GitHub-ody9s5eus-0A1628?style=flat-square&labelColor=0A1628&color=E8C9A0" alt="GitHub" /></a>
+</p>
 
-### 🚀 About Me
-I'm a **full-stack developer** with a passion for creating innovative and efficient solutions. From helping startups secure millions in investments 💰 to building scalable tech infrastructure 🚀, I love turning complex challenges into polished digital experiences.
+---
 
-### 🛠️ Technologies & Skills
-- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
-- **Frameworks & Libraries**: ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=flat&logo=nuxtdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-- **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-%2300AC47.svg?style=flat&logo=pm2&logoColor=white)
-- **Databases**: ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-- **Cloud & DevOps**: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2300599C.svg?style=flat&logo=jenkins&logoColor=white)
-- **Platforms**: ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000.svg?style=flat&logo=redhat&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-%23262576.svg?style=flat&logo=centos&logoColor=white)
-- **Media**: ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23000000.svg?style=flat&logo=ffmpeg&logoColor=white)
-- **ETC**: ![Monero (XMR)](https://img.shields.io/badge/Monero-%23FF6600.svg?style=flat&logo=monero&logoColor=white) ![TOR](https://img.shields.io/badge/TOR-%237E4798.svg?style=flat&logo=torproject&logoColor=white)
+### Who I am
 
-### 🌟 What I've Achieved
-- 🏆 Supported multiple startups with **prototype development** across apps, web, and servers.
-- 💵 Contributed to raising **$5 million in funding** for companies by delivering technological excellence.
-- ⚙️ Expert in **server setup** (bare-metal, AWS, Linode) and managing **databases** like Oracle, MySQL, PostgreSQL, MongoDB, and Redis.
-- 📦 **Backend architecture** using Node.js and Java, with modern CI/CD pipelines for smooth deployments.
-- 💡 Always staying **ahead of the curve** with new trends and technologies in the development world.
-- 🔧 Deploying **scalable Node.js services** using **PM2** for robust performance.
+**Odys Lee** — full-stack engineer who owns the path from prototype to production.
 
-### 🛠️ Personal Work
-- **Domesticmonerochan (DMC)**: A **community-driven, image board-style forum** tailored for Monero (XMR) enthusiasts. It emphasizes privacy and secure communication.  
-  🌐 [Check it out](https://domesticmonerochan.org)  
-  - 🔒 **Privacy Focused**: Supports **TOR connections** for anonymous browsing.  
-  - 🛡️ **PGP Encryption**: Users can create accounts and register their **PGP public keys** for secure communication.  
-  - 💬 **Encrypted DMs**: Communicate privately using **PGP-encrypted direct messages**.  
-  - 🧩 **Customizable Boards**: Create and manage **public or private boards** for different topics and communities.  
-  - 📸 **Rich Media Support**: Share **text, images, and videos** similar to other social platforms.  
-  - 🤝 **XMR Trading**: Facilitates **Monero trading** with a built-in **escrow service**, ensuring secure transactions between users.
+I build product surfaces people enjoy using, and the infrastructure that keeps them reliable: APIs, data stores, CI/CD, bare-metal and cloud ops. I’ve helped startups ship fundable demos and scale past the “it works on my machine” stage — including work that contributed to **~$5M in raised capital**.
 
-### 📈 Goals & Aspirations
-- Building **scalable and intuitive products** that deliver exceptional user experiences.
-- Exploring the **cutting edge** of cloud services and **serverless architectures**.
-- Making contributions to **open-source** projects and the development community.
+I care about **latency, correctness, and trust**. Pretty UI without a solid system underneath is just a demo.
 
-### 📫 How to reach me:
-- **Email**: [ody9s5eus@icloud.com](mailto:ody9s5eus@icloud.com)
+---
 
-Feel free to reach out if you want to chat about tech, opportunities, or just say hi!
+### What I optimize for
 
-### ✨ My Motto:
-> **"Run time is important. Done time is import as well."**
+| Signal | How it shows up in my work |
+| --- | --- |
+| **Ship velocity** | Tight loops: TypeScript end-to-end, Vite/React for UI, Node/Nest for services |
+| **Production reality** | Docker, PM2, Nginx, CI/CD, Ubuntu/RHEL — not just local happy paths |
+| **Data that survives** | PostgreSQL, MongoDB, Redis; schema decisions that don’t paint you into a corner |
+| **Trust & privacy** | PGP messaging, TOR-aware delivery, escrow flows — security as product, not a checkbox |
+| **Craft** | Tools with live demos, typed interfaces, and readable architecture |
+
+---
+
+### Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Domestic Monerochan (DMC)
+**Privacy-first community platform** · production product
+
+Image-board style forum with account identity, **PGP-encrypted DMs**, board permissions, media, and **XMR escrow** trading flows — designed for anonymity-preserving communities.
+
+- TOR-aware access paths  
+- Server + app + ops ownership  
+- [domesticmonerochan.org](https://domesticmonerochan.org)
+
+</td>
+<td width="50%" valign="top">
+
+#### Developer tools (live)
+**DX products** · TypeScript / React / Vite
+
+Small tools that remove friction for builders — shipped with real previews, not README vaporware.
+
+- [README Generator](https://ody9s5eus.github.io/readme-generator/) — templates + live markdown preview  
+- [TS Mock Gen](https://ody9s5eus.github.io/ts-mock-gen/) — interfaces → realistic JSON  
+- [Markdown → Slides](https://ody9s5eus.github.io/instant-markdown-to-slides/) — write left, present right  
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Image Converter
+**In-browser media pipeline** · React + TypeScript
+
+Upload → resize → crop → blur/redact → export (JPEG / PNG / WebP). Privacy-sensitive edits stay on the client.
+
+- [Repository](https://github.com/ody9s5eus/image-converter)
+
+</td>
+<td width="50%" valign="top">
+
+#### Interaction & graphics
+**Product feel experiments**
+
+- [Interactive Task Bubble](https://ody9s5eus.github.io/interactive-task-bubble/) — Matter.js physics tasks  
+- [Solar System](https://ody9s5eus.github.io/solar-system-simulation/) — Three.js / R3F  
+- [Color Palette](https://ody9s5eus.github.io/color-palette-generator/) — contrast-aware generator + Vitest  
+
+</td>
+</tr>
+</table>
+
+---
+
+### Stack (what I reach for first)
+
+```text
+Languages     TypeScript · JavaScript · Java · Swift · Kotlin
+Product UI    React · Next.js · Vue · Nuxt · React Native
+Services      Node.js · NestJS · Spring Boot
+Data          PostgreSQL · MongoDB · Redis
+Delivery      Docker · Kubernetes · Nginx · PM2 · GitHub Actions / CI
+Platforms     AWS · bare-metal · Ubuntu · RHEL / CentOS
+Media         FFmpeg · browser image pipelines
+```
+
+<details>
+<summary><strong>Badge strip</strong> (for scanners who like logos)</summary>
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=flat-square&logo=typescript&logoColor=D4A574)
+![React](https://img.shields.io/badge/React-0A1628?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0A1628?style=flat-square&logo=nextdotjs&logoColor=E8C9A0)
+![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=flat-square&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-0A1628?style=flat-square&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1628?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A1628?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0A1628?style=flat-square&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-0A1628?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0A1628?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1628?style=flat-square&logo=kubernetes&logoColor=326CE5)
+
+</details>
+
+---
+
+### Operating principles
+
+1. **Done time beats clever time** — ship the honest MVP, then harden what users actually touch.  
+2. **Own the failure domain** — if it can break in prod, I’ve already thought about logs, restarts, and rollback.  
+3. **UX is a system property** — performance, permissions, and copy are part of the same design.  
+4. **Security is product** — encryption, identity, and threat models belong in the roadmap, not a postmortem.
+
+---
+
+### Snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ody9s5eus&show_icons=true&theme=radical&hide_border=true&bg_color=0A1628&title_color=D4A574&icon_color=D4A574&text_color=9BB0C2&ring_color=D4A574" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical&hide_border=true&bg_color=0A1628&title_color=D4A574&text_color=9BB0C2" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&theme=react-dark&bg_color=0A1628&color=D4A574&line=D4A574&point=E8C9A0&area=true&hide_border=true" alt="Contribution activity" />
+</p>
+
+---
+
+### Let’s build
+
+Open to **full-stack / platform / product engineering** roles where ownership matters.
+
+**Email:** [ody9s5eus@icloud.com](mailto:ody9s5eus@icloud.com)
+
+> *“Runtime is important. Done time is important as well.”*
