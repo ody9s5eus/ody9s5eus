@@ -8,11 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://ody9s5eus.github.io/readme-generator/"><img src="https://img.shields.io/badge/Live_Tools-GitHub_Pages-0A1628?style=flat-square&labelColor=0A1628&color=D4A574" alt="Live tools" /></a>
-  &nbsp;
-  <a href="mailto:ody9s5eus@icloud.com"><img src="https://img.shields.io/badge/Email-ody9s5eus%40icloud.com-0A1628?style=flat-square&labelColor=0A1628&color=9BB0C2" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/ody9s5eus"><img src="https://img.shields.io/badge/GitHub-ody9s5eus-0A1628?style=flat-square&labelColor=0A1628&color=E8C9A0" alt="GitHub" /></a>
+  <a href="mailto:ody9s5eus@icloud.com"><img src="https://img.shields.io/badge/Open_to_roles-Full--stack_%2F_Platform-0A1628?style=for-the-badge&labelColor=0A1628&color=D4A574" alt="Open to roles" /></a>
+</p>
+
+<p align="center">
+  <a href="https://ody9s5eus.github.io/readme-generator/"><img src="https://img.shields.io/badge/Live_tools-GitHub_Pages-0A1628?style=flat-square&labelColor=132A3A&color=D4A574" alt="Live tools" /></a>
+  <a href="mailto:ody9s5eus@icloud.com"><img src="https://img.shields.io/badge/Email-ody9s5eus%40icloud.com-0A1628?style=flat-square&labelColor=132A3A&color=9BB0C2" alt="Email" /></a>
+  <a href="https://github.com/ody9s5eus"><img src="https://img.shields.io/badge/GitHub-ody9s5eus-0A1628?style=flat-square&labelColor=132A3A&color=E8C9A0" alt="GitHub" /></a>
 </p>
 
 ---
@@ -36,6 +38,21 @@ I care about **latency, correctness, and trust**. Pretty UI without a solid syst
 | **Data that survives** | PostgreSQL, MongoDB, Redis; schema decisions that don’t paint you into a corner |
 | **Trust & privacy** | PGP messaging, TOR-aware delivery, escrow flows — security as product, not a checkbox |
 | **Craft** | Tools with live demos, typed interfaces, and readable architecture |
+
+---
+
+### How I think about a product system
+
+```mermaid
+flowchart LR
+  U[Client surfaces<br/>Web · App · Admin] --> A[API layer<br/>Node / Nest / Java]
+  A --> D[(Primary data<br/>Postgres / Mongo)]
+  A --> C[(Cache & sessions<br/>Redis)]
+  A --> J[Jobs & media<br/>PM2 · FFmpeg]
+  U --> E[Edge & access<br/>Nginx · TOR paths]
+  E --> A
+  A --> X[Trust flows<br/>PGP · Escrow]
+```
 
 ---
 
@@ -138,12 +155,12 @@ Media         FFmpeg · browser image pipelines
 ### Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ody9s5eus&show_icons=true&theme=radical&hide_border=true&bg_color=0A1628&title_color=D4A574&icon_color=D4A574&text_color=9BB0C2&ring_color=D4A574" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=radical&hide_border=true&bg_color=0A1628&title_color=D4A574&text_color=9BB0C2" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ody9s5eus&show_icons=true&hide_border=true&bg_color=0A1628&title_color=D4A574&icon_color=D4A574&text_color=9BB0C2&ring_color=D4A574" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&hide_border=true&bg_color=0A1628&title_color=D4A574&text_color=9BB0C2" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&theme=react-dark&bg_color=0A1628&color=D4A574&line=D4A574&point=E8C9A0&area=true&hide_border=true" alt="Contribution activity" />
+  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&bg_color=0A1628&color=D4A574&line=D4A574&point=E8C9A0&area=true&hide_border=true" alt="Contribution activity" />
 </p>
 
 ---
