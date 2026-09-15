@@ -2,23 +2,12 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://domesticmonero.com/)
 
-### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ody9s5eus&theme=tokyonight)](https://git.io/streak-stats)\
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ody9s5eus&theme=tokyo-night)
-
 ### 🚀 About Me
 I'm a **full-stack developer** with a passion for creating innovative and efficient solutions. From helping startups secure millions in investments 💰 to building scalable tech infrastructure 🚀, I love turning complex challenges into polished digital experiences.
 
-### 🛠️ Technologies & Skills
-- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
-- **Frameworks & Libraries**: ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=flat&logo=nuxtdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-- **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-%2300AC47.svg?style=flat&logo=pm2&logoColor=white)
-- **Databases**: ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-- **Cloud & DevOps**: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2300599C.svg?style=flat&logo=jenkins&logoColor=white)
-- **Platforms**: ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000.svg?style=flat&logo=redhat&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-%23262576.svg?style=flat&logo=centos&logoColor=white)
-- **Media**: ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23000000.svg?style=flat&logo=ffmpeg&logoColor=white)
-- **ETC**: ![Monero (XMR)](https://img.shields.io/badge/Monero-%23FF6600.svg?style=flat&logo=monero&logoColor=white) ![TOR](https://img.shields.io/badge/TOR-%237E4798.svg?style=flat&logo=torproject&logoColor=white)
+### 🛠️ Personal Work
+- **Domestic Monero**: A **Telegram Mini App** for peer-to-peer Monero (XMR) trading — buy or sell XMR against BTC, LTC, ETH, SOL, and USDT with custodial escrow, no exchange-account signup.  
+  🌐 [domesticmonero.com](https://domesticmonero.com) · [Docs & archive](https://archive.domesticmonero.com) · [Telegram Mini App `@domestic_monero_bot`](https://t.me/domestic_monero_bot/app)
 
 ### 🌟 What I've Achieved
 - 🏆 Supported multiple startups with **prototype development** across apps, web, and servers.
@@ -28,14 +17,38 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 - 💡 Always staying **ahead of the curve** with new trends and technologies in the development world.
 - 🔧 Deploying **scalable Node.js services** using **PM2** for robust performance.
 
-### 🛠️ Personal Work
-- **Domestic Monero**: A **Telegram Mini App** for peer-to-peer Monero (XMR) trading — buy or sell XMR against BTC, LTC, ETH, SOL, and USDT with custodial escrow, no exchange-account signup.  
-  🌐 [domesticmonero.com](https://domesticmonero.com) · [Docs & archive](https://archive.domesticmonero.com) · [Telegram Mini App `@domestic_monero_bot`](https://t.me/domestic_monero_bot/app)
-
 ### 📈 Goals & Aspirations
 - Building **scalable and intuitive products** that deliver exceptional user experiences.
 - Exploring the **cutting edge** of cloud services and **serverless architectures**.
 - Making contributions to **open-source** projects and the development community.
+
+### 🛠️ Technologies & Skills
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Monero (XMR)](https://img.shields.io/badge/Monero-%23FF6600.svg?style=flat&logo=monero&logoColor=white)
+
+<details>
+<summary>More stack</summary>
+
+- **Languages**: JavaScript, Java, Swift, Kotlin
+- **Frameworks & Libraries**: Next.js, Vue.js, Nuxt.js, React Native
+- **Backend**: Spring Boot, Kubernetes, PM2
+- **Databases**: MongoDB, Redis
+- **Cloud & DevOps**: CI/CD
+- **Platforms**: Nginx, Ubuntu, Red Hat, CentOS
+- **Media**: FFmpeg
+- **ETC**: TOR
+
+</details>
+
+### 📊 GitHub Stats:
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ody9s5eus&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 📫 How to reach me:
 - **Email**: [ody9s5eus@icloud.com](mailto:ody9s5eus@icloud.com)
