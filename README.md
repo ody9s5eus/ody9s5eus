@@ -1,6 +1,6 @@
 # Hi, I'm Odys! &nbsp;<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30px">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://domesticmonerochan.org/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://domesticmonero.com/)
 
 ### 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ody9s5eus&layout=compact&theme=tokyonight)
@@ -29,14 +29,8 @@ I'm a **full-stack developer** with a passion for creating innovative and effici
 - 🔧 Deploying **scalable Node.js services** using **PM2** for robust performance.
 
 ### 🛠️ Personal Work
-- **Domesticmonerochan (DMC)**: A **community-driven, image board-style forum** tailored for Monero (XMR) enthusiasts. It emphasizes privacy and secure communication.  
-  🌐 [Check it out](https://domesticmonerochan.org)  
-  - 🔒 **Privacy Focused**: Supports **TOR connections** for anonymous browsing.  
-  - 🛡️ **PGP Encryption**: Users can create accounts and register their **PGP public keys** for secure communication.  
-  - 💬 **Encrypted DMs**: Communicate privately using **PGP-encrypted direct messages**.  
-  - 🧩 **Customizable Boards**: Create and manage **public or private boards** for different topics and communities.  
-  - 📸 **Rich Media Support**: Share **text, images, and videos** similar to other social platforms.  
-  - 🤝 **XMR Trading**: Facilitates **Monero trading** with a built-in **escrow service**, ensuring secure transactions between users.
+- **Domestic Monero**: A **Telegram Mini App** for peer-to-peer Monero (XMR) trading — buy or sell XMR against BTC, LTC, ETH, SOL, and USDT with custodial escrow, no exchange-account signup.  
+  🌐 [domesticmonero.com](https://domesticmonero.com) · [Docs & archive](https://archive.domesticmonero.com) · [Telegram Mini App `@domestic_monero_bot`](https://t.me/domestic_monero_bot/app)
 
 ### 📈 Goals & Aspirations
 - Building **scalable and intuitive products** that deliver exceptional user experiences.
